@@ -1,0 +1,18 @@
+﻿  Camera.cpp
+C:\Users\Karol\Downloads\carlos_grafika-main\Solar_System\Camera.h(5,10): error C1083: Nie można otworzyć pliku dołącz: 'GL/glew.h': No such file or directory
+  (kompilowanie pliku źródłowego „Camera.cpp”)
+  
+  main.cpp
+C:\Users\Karol\Downloads\carlos_grafika-main\Solar_System\main.cpp(2,10): error C1083: Nie można otworzyć pliku dołącz: 'GL/glew.h': No such file or directory
+  OpenGLWindow.cpp
+C:\Users\Karol\Downloads\carlos_grafika-main\Solar_System\OpenGLWindow.cpp(2,10): error C1083: Nie można otworzyć pliku dołącz: 'GL/glew.h': No such file or directory
+  Shader.cpp
+C:\Users\Karol\Downloads\carlos_grafika-main\Solar_System\Shader.h(5,10): error C1083: Nie można otworzyć pliku dołącz: 'GL/glew.h': No such file or directory
+  (kompilowanie pliku źródłowego „Shader.cpp”)
+  
+  ShaderProgram.cpp
+C:\Users\Karol\Downloads\carlos_grafika-main\Solar_System\ShaderProgram.cpp(2,10): error C1083: Nie można otworzyć pliku dołącz: 'GL/glew.h': No such file or directory
+  Sphere.cpp
+C:\Users\Karol\Downloads\carlos_grafika-main\Solar_System\Sphere.cpp(2,10): error C1083: Nie można otworzyć pliku dołącz: 'glm/glm.hpp': No such file or directory
+  Texture.cpp
+C:\Users\Karol\Downloads\carlos_grafika-main\Solar_System\Texture.cpp(2,10): error C1083: Nie można otworzyć pliku dołącz: 'stb/stb_image.h': No such file or directory
